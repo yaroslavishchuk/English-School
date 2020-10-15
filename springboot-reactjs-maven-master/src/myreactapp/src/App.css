@@ -1,0 +1,54 @@
+
+.App-main {
+ 
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+  
+}
+.App-form{
+  
+  text-align: center;
+  width:100%;
+  font-size: 20px;
+  border-radius: 5%;
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.5);;
+  padding: 15px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+body{
+  
+  background: url("./city.jpg") no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+ 
+}
+span{
+
+    color: red;
+    margin-top: 20px;
+    font-size: 10px;
+
+}
+h1{
+  position: absolute;
+  font-size: 100px;
+  top:70px;
+  left: 100px;
+}
+#submitButton{
+
+  
+}
+#submitButton:hover{
+ 
+ 
+}
+
+
